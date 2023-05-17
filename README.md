@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MinoraCart<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Lavavel<br>💬 Ask me about Web Development<br>⚡ SDLC important hai babu
+🔭 I’m currently working on MinoraCart<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Lavavel<br>💬 Ask me about Web Development<br>⚡ SDLC important hai babu<br> 💻 Coding de shokeen heavy Code marde
 
 
 ## 🌐 Socials:
