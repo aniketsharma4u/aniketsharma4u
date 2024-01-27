@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MinoraCart<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development<br>⚡ SDLC important hai babu<br> 💻 Coding de shokeen heavy Code marde
+🔭 I’m currently working on Minora Cart<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development<br>⚡ SDLC important hai babu<br> 💻 Coding de shokeen heavy Code marde
 
 
 ## 🌐 Socials:
